@@ -1,0 +1,1153 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+.nav-item {
+    font-size: 20px;
+}
+
+.ig {
+    opacity: 0.4;
+}
+
+.fron {
+    font-family: font4;
+    font-size: 80px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3));
+}
+
+.ourmenu {
+    font-size: 30px;
+    font-family: font4;
+    position: absolute;
+    left: 900px;
+}
+
+.news {
+    font-size: 30px;
+    font-family: font4;
+    position: absolute;
+    left: 1150px;
+}
+
+.subs {
+    font-family: font9;
+    font-size: 14px;
+    width: 9%;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 30px;
+    position: absolute;
+    text-align: center;
+    background-color: #D85C5C;
+    left: 1500px;
+    top: 100px;
+}
+
+.subs1 {
+    font-family: font9;
+    font-size: 14px;
+    width: 9%;
+    color: #fff;
+    border: 1px solid #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 30px;
+    position: absolute;
+    text-align: center;
+    left: 1300px;
+    top: 1260px;
+}
+
+.subs1:hover {
+    background-color: #EA9C00;
+    transition: 0.3s;
+    color: #fff;
+    border: 1px solid #EA9C00;
+}
+
+.mail {
+    font-family: font3;
+    font-size: 20px;
+    position: absolute;
+    left: 563px;
+    top: 120px;
+    color: #fff;
+}
+
+.pol {
+    font-family: font3;
+    font-size: 20px;
+    position: absolute;
+    left: 603px;
+    top: 120px;
+    color: #ADADAD;
+}
+
+.pol:hover {
+    color: #D3B600;
+    transition: 0.3s;
+}
+
+.input-field1 {
+    width: 17%;
+    height: 51px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 17px;
+    padding-right: 5px;
+    border: 2px solid #f3f3f3;
+    font-family: font9;
+    border-radius: 30px;
+    outline: #101010;
+    color: #262626;
+    font-size: 14px;
+    position: absolute;
+    top: 100px;
+    left: 1150px;
+}
+
+.subs:hover {
+    background-color: #E5C600;
+    transition: 0.3s;
+    color: #fff;
+}
+
+.men {
+    font-family: font15;
+    letter-spacing: -2px;
+    font-size: 20px;
+    position: absolute;
+    left: 903px;
+    top: 100px;
+    color: #ADADAD;
+}
+
+.men:hover {
+    color: #D3B600;
+    transition: 0.3s;
+}
+
+.strip1 {
+    font-family: font15;
+    letter-spacing: -2px;
+    font-size: 20px;
+    position: absolute;
+    left: 1018px;
+    top: 100px;
+    color: #ADADAD;
+}
+
+.mak {
+    font-family: font15;
+    letter-spacing: -2px;
+    font-size: 20px;
+    position: absolute;
+    left: 960px;
+    top: 100px;
+    color: #ADADAD;
+}
+
+.mak:hover {
+    color: #D3B600;
+    transition: 0.3s;
+}
+
+.strip {
+    font-family: font15;
+    letter-spacing: -2px;
+    font-size: 20px;
+    position: absolute;
+    left: 944px;
+    top: 100px;
+    color: #ADADAD;
+}
+
+.minu {
+    font-family: font15;
+    letter-spacing: -2px;
+    font-size: 20px;
+    position: absolute;
+    left: 1033px;
+    top: 100px;
+    color: #ADADAD;
+}
+
+.minu:hover {
+    color: #D3B600;
+    transition: 0.3s;
+}
+
+.about {
+    top: 1475px;
+    left: 870px;
+    font-family: font4;
+}
+
+.fastd {
+    font-family: font3;
+    text-align: center;
+    top: 1780px;
+    font-size: 20px;
+    left: 360px;
+}
+
+.freshd {
+    font-family: font3;
+    text-align: center;
+    top: 2780px;
+    font-size: 20px;
+    left: 780px;
+}
+
+.dishd {
+    font-family: font3;
+    text-align: center;
+    top: 2780px;
+    font-size: 20px;
+    left: 1300px;
+}
+
+.namatam {
+    top: 1825px;
+    left: 630px;
+    font-family: font3;
+    text-align: center;
+}
+
+.namated {
+    top: 1825px;
+    font-family: font3;
+    text-align: center;
+}
+
+.welc {
+    top: 270px;
+    left: 300px;
+    font-family: font4;
+    font-size: 100px;
+    letter-spacing: -4px;
+}
+
+.topp {
+    top: 400px;
+    left: 320px;
+    font-family: font4;
+    font-size: 40px;
+    letter-spacing: -4px;
+}
+
+.les1 {
+    top: 390px;
+    left: 380px;
+    font-family: font4;
+    font-size: 70px;
+    letter-spacing: -4px;
+}
+
+.les2 {
+    top: 390px;
+    left: 479px;
+    font-family: font4;
+    font-size: 70px;
+    letter-spacing: -4px;
+}
+
+.textmakanan {
+    top: 1200px;
+    left: 220px;
+    font-family: font14;
+    font-size: 84px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.freeongkir {
+    top: 2100px;
+    left: 890px;
+    font-family: font4;
+    font-size: 28px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.garis3 {
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.hari {
+    top: 2150px;
+    left: 720px;
+    font-family: font9;
+    font-size: 52px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.ordernow {
+    font-family: font2;
+    font-size: 18px;
+    width: 14%;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 40px;
+    position: absolute;
+    text-align: center;
+    background-color: #D85C5C;
+    left: 420px;
+    top: 550px;
+}
+
+.ordernow:hover {
+    background-color: #E5C600;
+    transition: 0.7s;
+    color: #fff;
+}
+
+.order {
+    font-family: font9;
+    font-size: 14px;
+    width: 13.6%;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    position: absolute;
+    text-align: center;
+    background-color: #D85C5C;
+    left: 855px;
+    top: 2330px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.order:hover {
+    background-color: #E5C600;
+    transition: 0.3s;
+    color: #fff;
+}
+
+.fastde {
+    left: 445px;
+    font-family: font2;
+    font-size: 16px;
+}
+
+.freshfo {
+    font-family: font2;
+    font-size: 16px;
+}
+
+.textpaket {
+    top: 1200px;
+    left: 880px;
+    font-family: font14;
+    font-size: 84px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.tamir {
+    border-radius: 50%;
+    position: absolute;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.tedi {
+    border-radius: 80%;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.textminuman {
+    top: 1200px;
+    left: 1420px;
+    font-family: font14;
+    font-size: 84px;
+    filter: drop-shadow(-2px -2px 3px rgba(225, 225, 225, .4)) drop-shadow(5px 5px 5px rgba(0, 0, 0, .3)) drop-shadow(-2px -2px 3px rgba(0, 0, 0, .3))
+}
+
+.free {
+    font-family: font5;
+    color: #fff;
+    font-size: 14px;
+    margin-top: -31px;
+}
+
+.box {
+    box-shadow: 0 0px 10px rgba(0, 0, 0, .15);
+    overflow: hidden;
+    color: #000;
+}
+
+.boxkec {
+    border: 1px solid #c2c2c2;
+    box-shadow: 0 0px 4px rgba(0, 0, 0, .15);
+    overflow: hidden;
+    color: #000;
+}
+
+.poles {
+    position: absolute;
+    margin-left: 200px;
+    font-family: font14;
+    font-size: 80px;
+    letter-spacing: -4px;
+    top: -10px;
+}
+
+.poles2 {
+    position: absolute;
+    left: 590px;
+    font-family: font14;
+    font-size: 80px;
+    letter-spacing: -4px;
+    top: 20px;
+}
+
+.poles4 {
+    position: absolute;
+    left: 250px;
+    font-family: font15;
+    font-size: 20px;
+    letter-spacing: -2px;
+    top: 20px;
+}
+
+.privasi {
+    position: absolute;
+    left: 350px;
+    font-family: font15;
+    font-size: 20px;
+    letter-spacing: -2px;
+    top: 20px;
+    color: #7E7E7E;
+}
+
+.privasi:hover {
+    color: #D3B600;
+    transition: 0.3s;
+}
+
+.e {
+    position: absolute;
+    margin-left: 200px;
+    font-family: font14;
+    font-size: 100px;
+    letter-spacing: -4px;
+    top: -22px;
+    left: 105px;
+}
+
+.e2 {
+    position: absolute;
+    font-family: font14;
+    font-size: 100px;
+    letter-spacing: -4px;
+    top: 4px;
+    left: 657px;
+}
+
+.kategori {
+    font-family: font2;
+    top: 535px;
+    font-size: 18px;
+    left: 380px;
+}
+
+.top {
+    font-family: font2;
+    top: 575px;
+    font-size: 18px;
+    left: 1160px;
+}
+
+.pulsa {
+    font-family: font2;
+    top: 619px;
+    font-size: 16px;
+    left: 1030px;
+    color: black;
+}
+
+.pulsa:hover {
+    font-size: 18px;
+    transition: 0.7s;
+    color: #00A5BC;
+}
+
+.flight {
+    font-family: font2;
+    top: 619px;
+    font-size: 16px;
+    left: 1300px;
+    color: black;
+}
+
+.flight:hover {
+    font-size: 18px;
+    transition: 0.7s;
+    color: #00A5BC;
+}
+
+.notel {
+    font-family: font2;
+    top: 685px;
+    font-size: 12px;
+    left: 1100px;
+    color: #c2c2c2;
+}
+
+.nomin {
+    font-family: font2;
+    top: 783px;
+    font-size: 12px;
+    left: 1100px;
+    color: #c2c2c2;
+}
+
+.hotel {
+    font-family: font2;
+    top: 619px;
+    font-size: 16px;
+    left: 1390px;
+    color: black;
+}
+
+.hotel:hover {
+    font-size: 18px;
+    transition: 0.7s;
+    color: #00A5BC;
+}
+
+.paket {
+    font-family: font2;
+    top: 619px;
+    font-size: 16px;
+    left: 1120px;
+    color: black;
+}
+
+.paket:hover {
+    font-size: 18px;
+    transition: 0.7s;
+    color: #00A5BC;
+}
+
+.login-box {
+    font-family: font2;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 4px;
+    border-radius: 11px;
+    position: absolute;
+    left: 870px;
+    top: 2000px;
+}
+
+.dua {
+    font-family: font8;
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 20px;
+    position: absolute;
+    left: 1810px;
+    top: 31px;
+}
+
+.noltel {
+    font-family: font9;
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 20px;
+    position: absolute;
+    left: 1510px;
+    top: 31px;
+}
+
+.tentang {
+    font-family: font8;
+    font-size: 25px;
+    color: #000;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-radius: 20px;
+    position: absolute;
+    left: 1010px;
+    top: 31px;
+}
+
+.tentang:hover {
+    transition: 0.3s;
+    color: #FFDC00;
+}
+
+.daftar-box {
+    font-family: font2;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 4px;
+    border-radius: 11px;
+    position: absolute;
+    top: 78px;
+    left: 1670px;
+}
+
+.daftar-box:hover {
+    background-color: #fff;
+    transition: 0.3s;
+    color: #00A5BC;
+}
+
+.login-box:hover {
+    background-color: #fff;
+    transition: 0.3s;
+    color: #00A5BC;
+}
+
+.nav-link {
+    font-family: font14;
+    font-size: 28px;
+    top: 22px;
+}
+
+.free1 {
+    background: #FCFCFC;
+    width: 100%;
+    height: 100px;
+    font-family: font2;
+    color: #000;
+    font-size: 17px;
+    padding-top: 40px;
+    padding-left: 40px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .5);
+    overflow: hidden;
+    color: #000;
+    position: fixed;
+    top: 0px;
+}
+
+.free2 {
+    background: #23272D;
+    width: 100%;
+    height: 222px;
+    font-family: font2;
+    color: #000;
+    font-size: 17px;
+    padding-top: 40px;
+    padding-left: 40px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .5);
+    overflow: hidden;
+    color: #000;
+    position: absolute;
+    top: 3370px;
+}
+
+.free22 {
+    background: #23272D;
+    width: 100%;
+    height: 222px;
+    font-family: font2;
+    color: #000;
+    font-size: 17px;
+    padding-top: 40px;
+    padding-left: 40px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .5);
+    overflow: hidden;
+    color: #000;
+    position: absolute;
+    top: 1490px;
+}
+
+.free33 {
+    background: #fff;
+    width: 100%;
+    height: 70px;
+    font-family: font2;
+    color: #000;
+    font-size: 17px;
+    padding-top: 40px;
+    padding-left: 40px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .5);
+    overflow: hidden;
+    color: #000;
+    position: absolute;
+    top: 1710px;
+}
+
+.free3 {
+    background: #2691d9;
+    width: 100%;
+    height: 70px;
+    font-family: font2;
+    color: #000;
+    font-size: 17px;
+    padding-top: 40px;
+    padding-left: 40px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .5);
+    overflow: hidden;
+    color: #000;
+    position: absolute;
+    top: 3590px;
+}
+
+.waiter:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+.cafe:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+.coffee:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+.pizza:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+.teks6:hover {
+    transition: 0.5s;
+    opacity: 0.6;
+}
+
+.teks7:hover {
+    transition: 0.5s;
+    opacity: 0.6;
+}
+
+.teks4:hover {
+    transition: 0.5s;
+    opacity: 0.6;
+}
+
+.teks4 {
+    font-family: font7;
+    font-size: 15px;
+    margin-left: 680px;
+}
+
+.img {
+    margin-left: 810px;
+    color: #fff;
+}
+
+.masker {
+    font-family: font2;
+    font-size: 14px;
+    margin-left: 560px;
+    padding-right: 14px;
+    letter-spacing: -0.6px;
+}
+
+.carousel-control-prev {
+    margin-left: 375px;
+    margin-top: 130px;
+    height: 40px;
+    width: 20px;
+    background: #000;
+    border-radius: 8px;
+}
+
+.carousel-control-next {
+    margin-right: 375px;
+    margin-top: 130px;
+    height: 40px;
+    width: 20px;
+    background: #000;
+    border-radius: 8px;
+}
+
+.handsan {
+    font-family: font2;
+    letter-spacing: -1px;
+    font-size: 14px;
+    padding-right: 12px;
+}
+
+.topi {
+    font-family: font2;
+    letter-spacing: -1px;
+    font-size: 14px;
+    padding-right: 14px;
+}
+
+.speaker {
+    font-family: font2;
+    letter-spacing: -1.5px;
+    font-size: 14px;
+    padding-right: 12px;
+}
+
+.tas {
+    font-family: font2;
+    letter-spacing: -1.5px;
+    font-size: 14px;
+    padding-right: 14px;
+}
+
+.keyboard {
+    font-family: font2;
+    letter-spacing: -1px;
+    font-size: 14px;
+    padding-right: 16px;
+}
+
+.card-title {
+    font-size: 19px;
+    text-align: center;
+}
+
+.card-title:hover {
+    opacity: 0.6;
+    transition: 0.5s;
+}
+
+.card-text {
+    font-family: ;
+    text-align: center;
+}
+
+.baju {
+    width: 55.3%;
+    height: 0px;
+}
+
+.ban {
+    background: #000;
+}
+
+.baju1 {
+    width: 50%;
+    margin-left: 951px;
+}
+
+.baju2 {
+    width: 100%;
+}
+
+.nohp {
+    width: 190px;
+    padding: 7px;
+    padding-left: 6px;
+    border: 1px solid #c2c2c2;
+    border-radius: 6px;
+    outline: #101010;
+    color: #262626;
+    font-size: 12px;
+    left: 1100px;
+    position: absolute;
+}
+
+.belii {
+    padding: 6px;
+    background: #0190A4;
+    outline: none;
+    border: 2px solid #0190A4;
+    border-radius: 6px;
+    font-family: font7;
+    font-size: 18px;
+    padding-left: 17px;
+    padding-right: 17px;
+    left: 1350px;
+    position: absolute;
+    top: 746px;
+}
+
+.muat {
+    padding: 6px;
+    background: #0190A4;
+    color: white;
+    outline: none;
+    border: 2px solid #0190A4;
+    border-radius: 6px;
+    font-family: font7;
+    font-size: 18px;
+    padding-left: 17px;
+    padding-right: 17px;
+    left: 850px;
+    position: absolute;
+    top: 1790px;
+}
+
+.muat:hover {
+    background: #fff;
+    color: #0190A4;
+    transition: 0.7s;
+    font-size: 19px;
+}
+
+.muat1 {
+    padding: 6px;
+    background: white;
+    outline: none;
+    border-radius: 6px;
+    font-family: font7;
+    font-size: 6px;
+    padding-left: 17px;
+    padding-right: 17px;
+    position: absolute;
+    top: 1860px;
+}
+
+.belii:hover {
+    font-size: 20px;
+    transition: 0.8s;
+}
+
+.submit-btn1 {
+    padding: 6px;
+    background: #f3f3f3;
+    outline: none;
+    border: 2px solid #f3f3f3;
+    border-radius: 6px;
+    font-family: font7;
+    font-size: 15px;
+    padding-left: 17px;
+    padding-right: 17px;
+    left: 1300px;
+    position: absolute;
+}
+
+.submit-btn1:hover {
+    transition: 0.5s;
+    background: #f0f0f0;
+}
+
+.carousel-inner {
+    padding-bottom: 200px;
+}
+
+.aa {
+    padding-top: 220px;
+}
+
+.teks7 {
+    float: right;
+    padding-right: 40px;
+    padding-top: 13px;
+}
+
+@font-face {
+    font-family: font5;
+    src: url(font5.otf);
+}
+
+@font-face {
+    font-family: font6;
+    src: url(font6.otf);
+}
+
+@font-face {
+    font-family: font1;
+    src: url(font1.otf);
+}
+
+@font-face {
+    font-family: font2;
+    src: url(font2.ttf);
+}
+
+@font-face {
+    font-family: font8;
+    src: url(font8.ttf);
+}
+
+@font-face {
+    font-family: font9;
+    src: url(font9.ttf);
+}
+
+@font-face {
+    font-family: font3;
+    src: url(font3.otf);
+}
+
+@font-face {
+    font-family: font4;
+    src: url(font4.ttf);
+}
+
+@font-face {
+    font-family: font14;
+    src: url(font14.ttf);
+}
+
+@font-face {
+    font-family: font7;
+    src: url(font7.otf);
+}
+
+@font-face {
+    font-family: font10;
+    src: url(font10.otf);
+}
+
+@font-face {
+    font-family: font11;
+    src: url(font11.otf);
+}
+
+@font-face {
+    font-family: font13;
+    src: url(font13.otf);
+}
+
+@font-face {
+    font-family: font15;
+    src: url(font15.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #2980b9, #8e44ad);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}
+
+.center h1 {
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 1px solid silver;
+}
+
+.center form {
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+form .txt_field {
+    position: relative;
+    border-bottom: 2px solid #adadad;
+    margin: 30px 0;
+}
+
+.txt_field input {
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.txt_field label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    color: #adadad;
+    transform: translateY(-50%);
+    font-size: 16px;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.txt_field span::before {
+    content: '';
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: #2691d9;
+    transition: .5s;
+}
+
+.txt_field input:focus~label,
+.txt_field input:valid~label {
+    top: -5px;
+    color: #2691d9;
+}
+
+.txt_field input:focus~span::before,
+.txt_field input:valid~span::before {
+    width: 100%;
+}
+
+.pass {
+    margin: -5px 0 20px 5px;
+    color: #a6a6a6;
+    cursor: pointer;
+}
+
+.pass:hover {
+    text-decoration: underline;
+}
+
+input[type="submit"] {
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    background: #2691d9;
+    border-radius: 25px;
+    font-size: 18px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+}
+
+input[type="submit"]:hover {
+    border-color: #2691d9;
+    transition: .5s;
+}
+
+.signup_link {
+    margin: 30px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #666666;
+}
+
+.signup_link a {
+    color: #2691d9;
+    text-decoration: none;
+}
+
+.signup_link a:hover {
+    text-decoration: underline;
+}
